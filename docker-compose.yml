@@ -21,7 +21,7 @@ services:
       - "5006:8081"
     environment:
       - ASPNETCORE_ENVIRONMENT=Production
-      - ConnectionStrings__DefaultConnection=Server=sqlserver;Database=ITDesk;User=sa;Password=${MSSQL_SA_PASSWORD}
+      - ConnectionStrings__DefaultConnection=Server=sqlserver;Database=ITDesk;User=sa;Password=${MSSQL_SA_PASSWORD};TrustServerCertificate=true
     networks:
       - itdesk-network
   itdesk-client:
