@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E549EDF9-6D95-4717-A55D-684608D1D986}|ITDeskServer.csproj|c:\\users\\ramaz\\source\\repos\\itdesk\\itdeskserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E549EDF9-6D95-4717-A55D-684608D1D986}|ITDeskServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\Migrations\\20240824140611_Tables_Added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240824140611_Tables_Added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E549EDF9-6D95-4717-A55D-684608D1D986}|ITDeskServer.csproj|c:\\users\\ramaz\\source\\repos\\itdesk\\itdeskserver\\backgroundjobs\\databasemigratorjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E549EDF9-6D95-4717-A55D-684608D1D986}|ITDeskServer.csproj|solutionrelative:backgroundjobs\\databasemigratorjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E549EDF9-6D95-4717-A55D-684608D1D986}|ITDeskServer.csproj|c:\\users\\ramaz\\source\\repos\\itdesk\\itdeskserver\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E549EDF9-6D95-4717-A55D-684608D1D986}|ITDeskServer.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E549EDF9-6D95-4717-A55D-684608D1D986}|ITDeskServer.csproj|c:\\users\\ramaz\\source\\repos\\itdesk\\itdeskserver\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E549EDF9-6D95-4717-A55D-684608D1D986}|ITDeskServer.csproj|solutionrelative:appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E549EDF9-6D95-4717-A55D-684608D1D986}|ITDeskServer.csproj|c:\\users\\ramaz\\source\\repos\\itdesk\\itdeskserver\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E549EDF9-6D95-4717-A55D-684608D1D986}|ITDeskServer.csproj|solutionrelative:context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E549EDF9-6D95-4717-A55D-684608D1D986}|ITDeskServer.csproj|c:\\users\\ramaz\\source\\repos\\itdesk\\itdeskserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E549EDF9-6D95-4717-A55D-684608D1D986}|ITDeskServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E549EDF9-6D95-4717-A55D-684608D1D986}|ITDeskServer.csproj|c:\\users\\ramaz\\source\\repos\\itdesk\\itdeskserver\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E549EDF9-6D95-4717-A55D-684608D1D986}|ITDeskServer.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,40 +59,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Title": "20240824140611_Tables_Added.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\Migrations\\20240824140611_Tables_Added.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240824140611_Tables_Added.cs",
+              "ToolTip": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\Migrations\\20240824140611_Tables_Added.cs",
+              "RelativeToolTip": "Migrations\\20240824140611_Tables_Added.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T12:13:22.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Context\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T12:10:58.464Z",
+              "WhenOpened": "2024-08-24T14:06:11.817Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DatabaseMigratorJob.cs",
-              "DocumentMoniker": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\BackgroundJobs\\DatabaseMigratorJob.cs",
-              "RelativeDocumentMoniker": "BackgroundJobs\\DatabaseMigratorJob.cs",
-              "ToolTip": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\BackgroundJobs\\DatabaseMigratorJob.cs",
-              "RelativeToolTip": "BackgroundJobs\\DatabaseMigratorJob.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAlwBcAAAAiAAAA",
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T13:41:10.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T12:05:31.939Z",
+              "WhenOpened": "2024-08-24T13:40:26.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "appsettings.Production.json",
+              "ToolTip": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\appsettings.Production.json",
+              "RelativeToolTip": "appsettings.Production.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T13:40:01.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-24T13:39:38.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:39:30.314Z",
               "EditorCaption": ""
             }
           ]
