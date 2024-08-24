@@ -18,7 +18,7 @@ RUN npm run build
 FROM nginx:alpine
 
 # Copy the build files from the build stage
-COPY --from=build /app/dist /usr/share/nginx/html
+COPY --from=build /app/dist/itdesk-client/browser/ /usr/share/nginx/html
 
 # Copy custom Nginx configuration file if you have one
 COPY --from=build /app/nginx.conf /etc/nginx/nginx.conf
