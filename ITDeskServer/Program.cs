@@ -35,10 +35,10 @@ builder.Services.AddAuthentication().AddJwtBearer(options =>
 {
     options.TokenValidationParameters = new()
     {
-        ValidateIssuer = true, //tokený gönderen kiþi bilgisi
-        ValidateAudience = true, //tokený kullanacak site ya da kiþi bilgisi
-        ValidateIssuerSigningKey = true, //tokenýn güvenlik anahtarý üretmesini saðlayan güvenlik sözcüðü
-        ValidateLifetime = true, //tokenun yaþam süresini kontrol etmek istiyor musunuz
+        ValidateIssuer = true, //tokenï¿½ gï¿½nderen kiï¿½i bilgisi
+        ValidateAudience = true, //tokenï¿½ kullanacak site ya da kiï¿½i bilgisi
+        ValidateIssuerSigningKey = true, //tokenï¿½n gï¿½venlik anahtarï¿½ ï¿½retmesini saï¿½layan gï¿½venlik sï¿½zcï¿½ï¿½ï¿½
+        ValidateLifetime = true, //tokenun yaï¿½am sï¿½resini kontrol etmek istiyor musunuz
         ValidIssuer = "Taner Saydam",
         ValidAudience = "IT Desk Angular App",
         IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("my secret key my secret key my secret key 1234 ... my secret key my secret key my secret key 1234 ..."))
@@ -49,7 +49,7 @@ builder.Services.AddAuthentication().AddJwtBearer(options =>
 #region DbContext ve Identity
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
-    options.UseSqlServer("Data Source=TANER\\SQLEXPRESS;Initial Catalog=YMYP1ITDeskDb;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False");
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 builder.Services.AddIdentity<AppUser, AppRole>(opt =>
 {
@@ -65,7 +65,7 @@ builder.Services.AddIdentity<AppUser, AppRole>(opt =>
 #endregion
 
 #region Presentation
-builder.Services.AddControllers().AddOData(options=> options.EnableQueryFeatures());
+builder.Services.AddControllers().AddOData(options => options.EnableQueryFeatures());
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(setup =>
 {
