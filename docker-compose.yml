@@ -1,5 +1,3 @@
-version: '3.4'
-
 services:
   sqlserver:
     container_name: sqlserver
@@ -33,11 +31,8 @@ services:
       dockerfile: ./ITDeskClient/Dockerfile
     ports:
       - "5009:80"
+    networks:
+      - itdesk-network
 networks:
   itdesk-network:
     driver: bridge
-
-volumes:
-  postgres_data:
-  quickcart_appdata:
-  identity_appdata:
