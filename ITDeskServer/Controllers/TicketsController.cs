@@ -38,7 +38,7 @@ public class TicketsController : ApiController
         Ticket ticket = new()
         {
             Id = Guid.NewGuid(),
-            CreatedDate = DateTime.Now,
+            CreatedDate = DateTime.UtcNow,
             AppUserId = Guid.Parse(userId),
             IsOpen = true,
             Subject = request.Subject,
@@ -126,7 +126,7 @@ public class TicketsController : ApiController
         {
             AppUserId = request.AppUserId,
             Content = request.Content,
-            CreatedDate = DateTime.Now,
+            CreatedDate = DateTime.UtcNow,
             TicketId = request.TicketId
         };
 
