@@ -1,3 +1,4 @@
+using ITDeskServer.BackgroundJobs;
 using ITDeskServer.Context;
 using ITDeskServer.Middleware;
 using ITDeskServer.Models;
@@ -26,6 +27,7 @@ builder.Services.AddCors(configure =>
 
 #region Dependency Injection
 builder.Services.TryAddScoped<JwtService>();
+builder.Services.AddHostedService<DatabaseMigratorJob>();
 #endregion
 
 #region Authentication
