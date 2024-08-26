@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E549EDF9-6D95-4717-A55D-684608D1D986}|ITDeskServer.csproj|c:\\users\\ramaz\\source\\repos\\itdesk\\itdeskserver\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E549EDF9-6D95-4717-A55D-684608D1D986}|ITDeskServer.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E549EDF9-6D95-4717-A55D-684608D1D986}|ITDeskServer.csproj|c:\\users\\ramaz\\source\\repos\\itdesk\\itdeskserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E549EDF9-6D95-4717-A55D-684608D1D986}|ITDeskServer.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E549EDF9-6D95-4717-A55D-684608D1D986}|ITDeskServer.csproj|c:\\users\\ramaz\\source\\repos\\itdesk\\itdeskserver\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E549EDF9-6D95-4717-A55D-684608D1D986}|ITDeskServer.csproj|solutionrelative:context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E549EDF9-6D95-4717-A55D-684608D1D986}|ITDeskServer.csproj|c:\\users\\ramaz\\source\\repos\\itdesk\\itdeskserver\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E549EDF9-6D95-4717-A55D-684608D1D986}|ITDeskServer.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TicketsController.cs",
               "DocumentMoniker": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\Controllers\\TicketsController.cs",
               "RelativeDocumentMoniker": "Controllers\\TicketsController.cs",
@@ -70,25 +70,24 @@
               "RelativeToolTip": "Controllers\\TicketsController.cs",
               "ViewState": "AQIAAG8AAAAAAAAAAAAtwHwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T14:04:32.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T14:04:32.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAzwC8AAAAlAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwC8AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-24T14:36:36.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -96,12 +95,11 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-24T13:41:10.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T13:41:10.879Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\Context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Context\\ApplicationDbContext.cs",
@@ -109,12 +107,11 @@
               "RelativeToolTip": "Context\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T13:40:26.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T13:40:26.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.Production.json",
               "DocumentMoniker": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\appsettings.Production.json",
               "RelativeDocumentMoniker": "appsettings.Production.json",
@@ -122,25 +119,24 @@
               "RelativeToolTip": "appsettings.Production.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-24T13:40:01.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T13:40:01.82Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
               "ToolTip": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-08-24T13:39:38.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ramaz\\source\\repos\\ITDesk\\ITDeskServer\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -148,8 +144,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAAADMAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T13:39:30.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T13:39:30.314Z"
             }
           ]
         }
